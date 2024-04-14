@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/swathimaligireddy/podcast-stream/static/css/main.b86f0c32.css",
-    "main.js": "/swathimaligireddy/podcast-stream/static/js/main.5d0aadc2.js",
-    "static/js/453.b13e9974.chunk.js": "/swathimaligireddy/podcast-stream/static/js/453.b13e9974.chunk.js",
-    "index.html": "/swathimaligireddy/podcast-stream/index.html",
-    "main.b86f0c32.css.map": "/swathimaligireddy/podcast-stream/static/css/main.b86f0c32.css.map",
-    "main.5d0aadc2.js.map": "/swathimaligireddy/podcast-stream/static/js/main.5d0aadc2.js.map",
-    "453.b13e9974.chunk.js.map": "/swathimaligireddy/podcast-stream/static/js/453.b13e9974.chunk.js.map"
+    "main.css": "/podcast-stream/static/css/main.b86f0c32.css",
+    "main.js": "/podcast-stream/static/js/main.6655e2e9.js",
+    "static/js/453.b13e9974.chunk.js": "/podcast-stream/static/js/453.b13e9974.chunk.js",
+    "index.html": "/podcast-stream/index.html",
+    "main.b86f0c32.css.map": "/podcast-stream/static/css/main.b86f0c32.css.map",
+    "main.6655e2e9.js.map": "/podcast-stream/static/js/main.6655e2e9.js.map",
+    "453.b13e9974.chunk.js.map": "/podcast-stream/static/js/453.b13e9974.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b86f0c32.css",
-    "static/js/main.5d0aadc2.js"
+    "static/js/main.6655e2e9.js"
   ]
 }
